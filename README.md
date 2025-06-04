@@ -16,16 +16,22 @@
 
 ## Web Application Screenshots
 
-*Please replace the placeholder image paths with your actual screenshots.*
+### HomeScreen & Modes
 
-![Home Screen](path/to/screenshot1.png)  
-*Main interface of the AI_Study_Chatbot.*
+<img src="https://github.com/gargiiiii18/AI_Study_Chatbot/blob/main/screenshots/interface.png?raw=true" width="700"/>
+<img src="https://github.com/gargiiiii18/AI_Study_Chatbot/blob/main/screenshots/modes.png?raw=true" width="300"/>
 
-![Answering Questions](path/to/screenshot2.png)  
-*Example of the question answering feature in action.*
+### Answering Questions
 
-![MCQ Generation](path/to/screenshot3.png)  
-*Multiple-choice questions generated from a provided topic.*
+<img src="https://github.com/gargiiiii18/AI_Study_Chatbot/blob/main/screenshots/answering%20questions.png?raw=true" width="700"/>
+
+### Summarizing Notes
+
+<img src="https://github.com/gargiiiii18/AI_Study_Chatbot/blob/main/screenshots/summarizing%20notes.png?raw=true" width="700"/>
+
+### Generating MCQ's
+
+<img src="https://github.com/gargiiiii18/AI_Study_Chatbot/blob/main/screenshots/mcqs.png?raw=true" width="700"/>
 
 ---
 
