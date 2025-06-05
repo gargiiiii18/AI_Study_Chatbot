@@ -1,6 +1,6 @@
 # 📚 AI Study Chatbot
 
-### Live Link: https://gargiiiii18-ai-study-chatbot-main-2nwgqg.streamlit.app/ 
+<br/>
 
 **AI_Study_Chatbot** is a Streamlit-based web application designed to assist users in studying by providing three core functionalities: answering questions, summarizing notes, and generating multiple-choice questions (MCQs) on a given topic. 
 
